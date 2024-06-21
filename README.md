@@ -1,6 +1,6 @@
 # Facial_Recognition_AttMgmt_Sys
 It's created with the intention to reduce attendance based workloads on teachers because this automatically mark the attendace of students by recognizing their faces. So due to this the workloads which is upon teachers
-is reduced. And, thanks to OpenCv,matplotib,pandas,streamlit and other libraries which'll make this project so easy.
+is reduced. And, thanks to OpenCv,matplotib,pandas,streamlit and other libraries which'll make this project workable.
 
 This repo contains three file addfaces.py,app.py,test.py :
 

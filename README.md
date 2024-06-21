@@ -23,7 +23,7 @@ Make sure to download provided image(In repo).
 This project is licensed under the MIT License. Feel free to usse and modify the code for personal or commercial purpose.
 
 **Thank You For Visiting**
-If any bug and glitches found in project just contact with me to solve them. Thank you !!
+
 
 
 

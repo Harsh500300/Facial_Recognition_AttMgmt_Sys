@@ -7,8 +7,8 @@ This repo contains three file addfaces.py,app.py,test.py :
 Here each file having their individual role like **addfaces.py** is used to add faces of students of class, **test.py** is used for testing the project or called marking the attendance of students but only for those students
 which is already enroll or add their face in this project, and **app.py** is used to upload attendance data on webserver.
 
-**How to use**
-For use this application, follow these instructions: Clone the repository or download the source code as a ZIP file.Then,Extracting the content of that ZIP file to a local directory.
+**How to use**:
+Clone the repository or download the source code as a ZIP file.Then,Extracting the content of that ZIP file to a local directory.
 Open the addfaces.py,test.py and app.py file on Pycharm(Any code editor).Now,you'll able to use facial recognition based attendance management system.
 
 **Before Using These fiel make sure you install all these libraries in your pc with a suitable path**:
